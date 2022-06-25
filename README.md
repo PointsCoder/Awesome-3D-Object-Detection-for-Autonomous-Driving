@@ -1,13 +1,13 @@
 # 3D Object Detection for Autonomous Driving: A Review and New Outlooks
 
-[//]: [![arXiv](https://img.shields.io/badge/arXiv-1912.12033-b31b1b.svg)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)
+[![arXiv](https://img.shields.io/badge/arXiv-2206.09474-b31b1b.svg)](https://arxiv.org/abs/2206.09474)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/issues/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ![overview](Figs/overview.JPG)
 
-This repository is with our survey paper:
+This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
 > **Title:** 3D Object Detection for Autonomous Driving: A Review and New Outlooks <br>
 > **Authors:** Jiageng Mao, Shaoshuai Shi, Xiaogang Wang, Hongsheng Li<br>
