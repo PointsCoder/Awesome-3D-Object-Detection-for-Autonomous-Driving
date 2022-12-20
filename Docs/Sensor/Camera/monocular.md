@@ -82,6 +82,8 @@
 
 - Towards Generalization Across Depth for Monocular 3D Object Detection [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670766.pdf)
 
+- Single-Shot 3D Detection of Vehicles from Monocular RGB Images via
+Geometrically Constrained Keypoints in Real-Time [(IV 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9304847)
 - Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation [(AAAI 20)](https://ojs.aaai.org/index.php/AAAI/article/download/6618/6472)
 
 - Task-Aware Monocular Depth Estimation for 3D Object Detection [(AAAI 20)](https://ojs.aaai.org/index.php/AAAI/article/view/6908/6762)
