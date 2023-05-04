@@ -1,4 +1,4 @@
-# 3D Object Detection for Autonomous Driving: A Review and New Outlooks
+# 3D Object Detection for Autonomous Driving: A Comprehensive Survey (IJCV 2023)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2206.09474-b31b1b.svg)](https://arxiv.org/abs/2206.09474)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/graphs/commit-activity)
@@ -8,6 +8,12 @@
 ![overview](Figs/overview.JPG)
 
 This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
+
+> **Title:** 3D Object Detection for Autonomous Driving: A Comprehensive Survey <br>
+> **Authors:** Jiageng Mao, Shaoshuai Shi, Xiaogang Wang, Hongsheng Li<br>
+> **Publication:** International Journal of Computer Vision <br>
+
+a.k.a
 
 > **Title:** 3D Object Detection for Autonomous Driving: A Review and New Outlooks <br>
 > **Authors:** Jiageng Mao, Shaoshuai Shi, Xiaogang Wang, Hongsheng Li<br>
